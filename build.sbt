@@ -1,4 +1,4 @@
-name := "workspace.scalar"
+name := "SparkTutorial"
 
 version := "1.0"
 
